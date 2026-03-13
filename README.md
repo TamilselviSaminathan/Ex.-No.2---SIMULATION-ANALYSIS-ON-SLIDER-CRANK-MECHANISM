@@ -44,9 +44,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-<img width="481" height="246" alt="Screenshot 2026-03-12 104346" src="https://github.com/user-attachments/assets/58cc2b7b-1712-4700-989f-41d453bf0cfd" />
-<img width="558" height="336" alt="Screenshot 2026-03-12 104314" src="https://github.com/user-attachments/assets/59fa5ffd-20de-4af7-890b-00bbad572646" />
-<img width="572" height="440" alt="Screenshot 2026-03-12 104330" src="https://github.com/user-attachments/assets/14462195-b774-4908-aa1b-20ad1e75759b" />
+![WhatsApp Image 2026-03-13 at 21 09 12](https://github.com/user-attachments/assets/30c8a052-4178-439e-a59c-7f59c13a11fa)
+![WhatsApp Image 2026-03-13 at 22 00 21](https://github.com/user-attachments/assets/c846a40b-7363-4345-85e4-f94289728c35)
 
 ### Name:TAMILSELVI S
 ### Register Number: 212225040461
